@@ -1,0 +1,31 @@
+# Python Basics
+
+# Objective:
+# To understand the basic concepts of Python.
+
+# What is Python?
+# Python is a high-level, interpreted, general-purpose programming language.
+# It is easy to learn because of its simple and readable syntax.
+
+# Features of Python
+# 1. Simple and easy to learn
+# 2. Free and open source
+# 3. Platform independent
+# 4. Interpreted language
+# 5. Object-oriented
+# 6. Large standard library
+
+# Applications of Python
+# • Web Development
+# • Data Science
+# • Artificial Intelligence
+# • Machine Learning
+# • Automation
+# • Game Development
+
+# Example Program
+
+print("Welcome to Python!")
+
+# Output:
+# Welcome to Python!
