@@ -1,0 +1,109 @@
+Python Basics
+Converted and organized from the uploaded handwritten notes.
+
+1. What is a Program?
+A program is a set of instructions given to a computer to perform a specific task.
+Examples
+ATM Machine
+Calculator
+Mobile Apps
+Online Banking
+
+2. What is Python?
+Python is a high-level, interpreted, general-purpose programming language developed by Guido van Rossum.
+Python is simple to read, write, and learn.
+
+3. History of Python
+Developed by Guido van Rossum
+First released in 1991
+Named after Monty Python's Flying Circus
+Open-source programming language.
+
+4. Features of Python
+High-level language
+Easy to learn
+Easy to read
+Interpreted language
+Platform independent
+Open source
+Supports Object-Oriented Programming (OOP)
+Large standard library
+
+5. Interpreter vs Compiler
+Interpreter
+Executes program line by line.
+Stops immediately if an error occurs.
+Python uses an interpreter.
+Compiler
+Translates the entire program before execution.
+Reports errors after compilation.
+
+6. Applications of Python
+Data Science
+Artificial Intelligence
+Machine Learning
+Web Development
+Automation
+Cyber Security
+Scientific Computing
+Game Development
+
+7. Hello World Program
+print("Hello, World!")
+Output
+Hello, World!
+print()
+print() is a built-in function used to display output on the screen.
+Built-in Function
+A built-in function already exists in Python. You can use it directly.
+Examples: - print() - input() - len()
+
+8. String
+A string is a sequence of characters enclosed in single (' ') or double (" ") quotes.
+Examples:
+"Python"
+"Data Science"
+"Hello World"
+
+9. Variables
+A variable is a named memory location used to store data.
+Example:
+name = "Anju"
+print(name)
+Another example:
+age = 20
+age = 21
+Variables can change during program execution.
+
+10. Data Types
+Numeric
+int
+float
+complex
+String
+str
+Boolean
+True
+False
+List
+["geeks", "for", "geeks"]
+Tuple
+("geeks", "for", "geeks")
+Dictionary
+Stores data as key-value pairs.
+Set
+Stores unique values.
+
+11. Numeric Data Types
+Integer (int)
+Whole numbers without decimals.
+Example:
+10
+Float
+Numbers with decimal points.
+Example:
+10.5
+Complex
+Numbers with real and imaginary parts.
+Example:
+2 + 3j
