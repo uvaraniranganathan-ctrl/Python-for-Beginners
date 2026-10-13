@@ -10,3 +10,10 @@ print("Hello, World!")
 
 # Output:
 # Hello, World!
+
+
+Practice Exercises:
+
+1. Display your name.
+2. Display "I am learning Python."
+3. Display your college name.
